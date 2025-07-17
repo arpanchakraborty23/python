@@ -3,3 +3,4 @@ This is a new lineThis is append mode to add new line/n without overwrite conten
  without overwrite contentFirst line 
 Second line 
 Third Line
+Handling exceptions is crucial in PythonHandling exceptions is crucial in Python

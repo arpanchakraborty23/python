@@ -1,0 +1,9 @@
+2025-07-17 12:28:23 - root - DEBUG - This is a debug message
+2025-07-17 12:28:23 - root - INFO - This is info
+2025-07-17 12:28:23 - root - WARNING - This is a warning
+2025-07-17 12:28:23 - root - ERROR - This is an error
+2025-07-17 12:28:23 - root - INFO - Oparation Started
+2025-07-17 12:28:23 - root - DEBUG - 15
+2025-07-17 12:28:23 - root - INFO - Completed
+INFO:root:I am a Data Scientist
+INFO:root:I am a Data Scientist

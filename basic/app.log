@@ -1,0 +1,4 @@
+2025-07-17 12:24:01 - root - DEBUG - This is a debug message
+2025-07-17 12:24:01 - root - INFO - This is info
+2025-07-17 12:24:01 - root - WARNING - This is a warning
+2025-07-17 12:24:01 - root - ERROR - This is an error
